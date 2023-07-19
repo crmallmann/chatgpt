@@ -1,0 +1,48 @@
+https://github.com/f/awesome-chatgpt-prompts
+
+--> JavaScript Console
+
+Act as a JavaScript Console
+
+console.log("hello world!");
+
+const soma = 1 + 10
+console.log("soma");
+
+function calcularNumeros(numA,numB){
+const result = numA + numB
+return result
+}
+console.log(calcularNumeros(5,5))
+
+--> Terminal do Linux
+
+Act as a Linux Terminal
+
+ls
+
+cd Documents [o chatgpt cria arquivos simulados]
+
+ls
+
+cat notes.txt [leitura de arqivos fakes]
+
+
+--> Consultor de UI/UX
+
+Comporto-se como um consultor UI/UX e sempre me responda tudo com as dimensões da imagem e dicas de como implementar da melhor maneira.
+
+--> SQL terminal
+
+Act as a SQL terminal
+
+create a table wit name, age and description with 10 values randomics
+
+table name: tbl_users
+name: text
+age: numeric
+description: text
+
+select * from tbl_users;
+
+show me result from 'select * from tbl_users';

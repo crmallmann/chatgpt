@@ -1,0 +1,190 @@
+Prompts Assertivos
+
+Modelos de perguntas:
+
+Me [FUNÇÃO] um [TIPO DE TEXTO] sobre [ASSUNTO] nesse [ESTILO]
+
+F - Função: escreva, resuma, traduza, crie tópicos
+
+T - Tipo de texto: roteiro, post para blog, artigo, poema, postagem para instagram
+
+A - Assunto: IA, futebol, música, filme, etc...
+
+E - Estilo: personalidade, escritor, filósofo
+
+Exemplos:
+
+Me escreva em formato de post do instagram uma postagem sobre programação com os principais comandos JavaScript em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia.
+
+
+Me escreva em formato de carrosel do instagram uma postagem sobre programação com os principais comandos de Docker em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia.
+
+Me escreva em formato de carrosel do instagram uma postagem sobre programação me explicando o que é Docker em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia.
+
+
+Me escreva em formato de carrosel do instagram uma postagem sobre programação me explicando o que é Docker em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia, explique como se fosse para uma criança de 10 anos.
+
+Me escreva em formato de carrosel do instagram uma postagem sobre programação me explicando o que é Docker em um estilo informal e descontraído como se tivesse sido postado por um influencer de tecnologia, explique como um tom de voz mais sênior.
+
+Me escreva um e-mail solicitando uma vaga de emprego aonde estou encaminhando o meu currículo em um estilo mais formal imitando o estilo de escrita de um ganhador do prêmio Pulitzer.
+
+Me escreva um e-mail solicitando uma vaga de emprego de desenvolvedor JavaScript aonde estou encaminhando o meu currículo para o diretor Bruce Wayne em um estilo mais formal imitando o estilo de escrita de um desenvolvedor sênior.
+
+Me escreva um e-mail solicitando uma vaga de emprego de desenvolvedor JavaScript aonde estou encaminhando o meu currículo para o diretor Bruce Wayne em um estilo mais formal imitando o estilo de escrita de um desenvolvedor junior que já domina web apis.
+
+-------------------------------------------------------------
+
+Rules (regras): delimitar o que o chatgpt pode falar ou não
+
+Variáveis Semânticas: técnica de 3R's - Resumo, Roteiro, Regras ~> resposta em ordem cronológica 
+
+Exemplos:
+
+1 - Me escreva um artigo sobre primeiro passos no docker, em tom de conversa com uma criança de 10 anos. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor full stack
+[Avatar]: Desenvolvedores Júniors
+[Problema}: Como instalar o Docker
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.
+
+2 - Me escreva um artigo sobre primeiro passos no docker, em tom de conversa com uma criança de 10 anos. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor full stack
+[Avatar]: Desenvolvedores Júniors
+[Problema}: Como instalar o Docker
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.Me escreva um artigo sobre primeiro passos no docker, em tom de conversa com uma criança de 10 anos. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor full stack
+[Avatar]: Desenvolvedores Júniors
+[Problema}: Como instalar o Docker
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.
+> Utilize um tom de voz de um desenvolvedor mais sênior
+
+3 - Me escreva um conteúdo em forma de carrosel do instagram sobre o assunto de programação, aonde explica os principais comandos docker. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor full stack
+[Avatar]: Desenvolvedores Júniors
+[Problema}: Como instalar o Docker
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.Me escreva um artigo sobre primeiro passos no docker, em tom de conversa com uma criança de 10 anos. Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor full stack
+[Avatar]: Desenvolvedores Júniors
+[Problema}: Como instalar o Docker
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.
+> Utilize um tom de voz para se comunicar com desenvolvedores não experientes
+
+-------------------------------------------------------------
+
+Transformando formatos
+Me resuma esse conteúdo em formato de post carrosel em até 10 slides <link>
+
+-------------------------------------------------------------
+
+Resumos de livros
+1 - Me resuma o livro "pai rico e pai pobre", em formato de bullet points, em um tom de voz simplificado
+
+2 - Me resuma o livro "pai rico e pai pobre", em formato de bullet points, em um tom de voz simplificado resumindo os principais capítulos
+
+Após: 
+- me explique um resumo sobre o Capítulo 2 - Lições de Familia
+
+- transforme o resumo desse capítulo 2 em um post do instagram de até 6 slides
+
+-------------------------------------------------------------
+
+Criando um cronograma de estudos adaptado para o seu dia a dia
+
+1 - Crie um cronograma de estudos sobre Angular dividido em módulos e tópicos, aonde eu possa aprender Angular em 21 dias com apenas 3 horas de estudo por dia.
+
+2 - Crie um cronograma de estudos para dominar JavaScript dividido em módulos e tópicos, aonde eu possa aprender JavaScript em 30 dias com apenas 2 horas de estudo por dia, organize por dias da semana.
+
+-------------------------------------------------------------
+
+Criando um cronograma de estudos baseado em Vagas
+
+1 - Crie um cronograma de estudos para que eu consiga estudar e preparar para a vaga abaixo: [descrição da vaga]
+
+2 - Crie um cronograma de estudos com os principais tópicos que você deve aprender sobre Fundamentos de Engenharia de Dados
+
+-------------------------------------------------------------
+
+Como estudar conteúdos complexos com ChatGPT
+
+1 - Me escreva um artigo resumido sobre Introdução à Engenharia de Dados, em um tom de voz como se estivesse explicando para uma criança de 10 anos.
+
+Após: me explique como se fosse uma postagem do instagram em 10 slides feita por uma página nerd usando analogias de Naruto.
+ 
+
+
+-------------------------------------------------------------
+
+Utilizando Nosso Prompt de maneira efetiva e assertiva
+
+
+Função: Me escreva um artigo
+Tipo de texto: Artigo para linkedin
+Assunto: Programação, focada nos principais comandos Angular
+Estilo: Artigo para minha rede de desenvolvedores
+Tom de voz: Informal, para pessoas de tcnologia
+
+Agora use os itens em {RESUMO} para o {ROTEIRO} seguindo as {REGRAS}.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor Angular
+[Avatar]: Desenvolvedores iniciantes de Angular
+[Problema}: Lembrar os principais atalhos e comandos do Angular
+
+{ROTEIRO}
+Olá, eu sou [Autoridade] e vou ajudar o [Avatar].
+Hoje vamos resolver o [problema].
+
+{REGRAS}
+> Siga o {ROTEIRO} acima e substitua os elementos entre [ ] por aqueles listados em {RESUMO} acima.
+> Mantenha o tom e rtimo, mas reescreva as palavras em {ROTEIRO} para que seha diferente do original, expandido ou mudando conforme necessário.
+> Use Analogias simples e hipérboles.
+> Escreva com uma emoção com senso de urgência e importância.

@@ -1,0 +1,20 @@
+Projeto: https://github.com/felipeAguiarCode/netflix-clone-2.0
+
+1 - Clonar projeto na máquina
+2 - Não levar todos os arquivos, levar um arquivo ou uma função
+3 - No ChatGPT, reescrever o código com boas práticas
+4 - Prompt:
+	Reescreva o código JAVASCRIPT abaixo de uma maneira mais eficiente e aplicando boas práticas
+	<código>
+5 - Após:
+	Prompt:
+	Reescreva o código JAVASCRIPT abaixo de uma maneira mais eficiente e aplicando boas práticas 
+	e me explique depois as regras aplicadas
+	<código>
+6 - Após:
+	Aplique <regra> sugerida acima.
+
+
+----------------------------------------------------------------
+
+

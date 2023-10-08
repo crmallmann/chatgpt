@@ -1,0 +1,30 @@
+Comporta-se como se fosse um entrevistador técnico sênior em front-end especialista em react e me entreviste para uma posição de desenvolvedor front-end júnior.
+
+{REGRAS}
+> Tente manter um diálogo amigável comigo
+> Me faça 5 perguntas para uma vaga de desenvolvedor front-end júnior
+> Me faça uma pergunta por vez se possível
+> Me fala perguntas sobre as temáticas: react, javascript e css
+> Tente avaliar minhas skills técnicas e minha soft skills 
+> Ao final, me dê um feedback sobre minha respostas
+
+----------------------------------
+
+Crie um readme para o repositório abaixo com uma imagem de sugestão:
+<link do repositório>
+
+----------------------------------
+
+Se for um projeto open source, pedir para o chatgpt verificar o repositório. 
+
+Criar documento com padrão do código.
+
+Documentar processo e levar na entrevista.
+
+---------------------------------
+
+Resumo sobre a empresa.
+
+----------------------------------
+
+Brain dumps -> dicas 

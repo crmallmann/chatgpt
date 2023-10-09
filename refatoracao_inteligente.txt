@@ -1,3 +1,5 @@
+* Código eficiente
+
 Projeto: https://github.com/felipeAguiarCode/netflix-clone-2.0
 
 1 - Clonar projeto na máquina
@@ -15,6 +17,19 @@ Projeto: https://github.com/felipeAguiarCode/netflix-clone-2.0
 	Aplique <regra> sugerida acima.
 
 
-----------------------------------------------------------------
+* Melhorando a organização:
+
+Prompt: converta o código abaixo para utilizar uma estrutura diferente de organização <código>
+
+* Single Responsability
+
+Quebre o arquivo abaixo em outros arquivos, aonde cada um tem uma responsabilidade e me explique o que foi feito:
+<código>
+
+* Simplificação de código
+
+Simplifique o bloco de código abaixo e explique o que foi feito:
+<código>
+
 
 
